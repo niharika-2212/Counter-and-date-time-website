@@ -1,0 +1,30 @@
+*{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+
+body{
+    text-align: center;
+    background-color: #AAB99A;
+}
+
+button{
+    font-size: 20px;
+    margin-right: 20px;
+    background-color: #727D73;
+    /* color: black; */
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+button:hover{
+    background-color: #D0DDD0;
+}
+
+.dateTime{
+    font-weight: normal;
+}

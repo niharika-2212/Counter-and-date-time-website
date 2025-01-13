@@ -6,14 +6,14 @@ This repository contains a simple HTML and CSS website with two functional pages
 
 ## Setup Instructions
 1. Clone the repository to your local machine:
-2. Open the project directory:
 ```
 git clone https://github.com/niharika-2212/Counter-and-date-time-website.git
 ```
-3. Open index.html in your browser to navigate between the pages.
+3. Open the project directory:
 ```
 cd your-repo-name
 ```
+5. Open index.html in your browser to navigate between the pages.
 
 ## Technologies Used
 - **HTML**: Structure of the web pages.
